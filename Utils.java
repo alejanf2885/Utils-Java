@@ -1,3 +1,10 @@
+/**
+ * Clase de Utilidades para Cifrado AES
+ * 
+ * Autor: alejanf2885
+ * Github: https://github.com/alejanf2885
+ */
+
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
